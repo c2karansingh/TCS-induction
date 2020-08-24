@@ -57,4 +57,4 @@
 * Time sheet daily
 * Present address
 * Permanent address
-
+* PAN card details
