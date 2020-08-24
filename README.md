@@ -1,11 +1,11 @@
 # Table of contents
 
-* [Schedule at a glance](##Schedule-at-a-glance)
-* [Mobile app instructions](##Mobile-app-instructions)
-* [Work from home](##Work-from-home)
-* [Assessment details](##Assessment-details)
-* [Leaves](##Leaves)
-* [Insurance](##Insurance)
+* [Schedule at a glance](#Schedule-at-a-glance)
+* [Mobile app instructions](#Mobile-app-instructions)
+* [Work from home](#Work-from-home)
+* [Assessment details](#Assessment-details)
+* [Leaves](#Leaves)
+* [Insurance](#Insurance)
 
 ## Schedule at a glance.
 <div align="center">
