@@ -58,3 +58,7 @@
 * Present address
 * Permanent address
 * PAN card details
+
+## Declaration kit
+- College name in page 5 'xplore part'
+- Add web copy/degree certificate in table on page 5. put date of submission as "date of physical reporting".
