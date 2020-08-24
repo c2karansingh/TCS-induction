@@ -1,6 +1,7 @@
 ## Schedule at a glance.
 
-![Induction schedule](https://github.com/c2karansingh/TCS-induction/blob/master/images/Schedule.jpeg)
+<img align="center" src="https://github.com/c2karansingh/TCS-induction/blob/master/images/Schedule.jpeg">
+
 ## Instructions for the mobile app mentioned in the mail recieved the day before joining.
 - The app will be used for taking attendance as well as sharing materials like employee id.
 - Open the app on Microsoft edge only, with a mobile device with camera.
