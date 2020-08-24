@@ -22,6 +22,6 @@
 - All leaves are divided into 4 quarters. The types of leaves per year are:
 - `16 earned leaves` : excess upto 48 then encashed.
 - `7 casual leaves` : Must be completed before year end.
-- `10 sick leaves` : excess upto 48 then lapsed.
+- `10 sick leaves` : excess upto 44 then lapsed.
 - `8 holidays`
 - `2 flexi holidays`
