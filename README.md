@@ -1,6 +1,6 @@
 ## Schedule at a glance.
 <div align="center">
-<img src="https://github.com/c2karansingh/TCS-induction/blob/master/images/Schedule.jpeg">
+<img style="width:50%;height:50%;" src="https://github.com/c2karansingh/TCS-induction/blob/master/images/Schedule.jpeg">
 </div>
 
 ## Instructions for the mobile app mentioned in the mail recieved the day before joining.
