@@ -10,3 +10,9 @@
 - On scanning the QR code, fill up the form with your current address as this will be the place where TCS will send the work assets to. (The app might be extremely slow as a lot of people will be submitting their details)
 ## Work from home
 - SBWS (Secure Borderless Workspace) is TCS' solution for work from home.
+## Assessment details
+- Those who scored 80+ in OPA/iPA will have only 1 week training.
+- PRA is not applicable for 1-week training program.
+- Those who scored <80 in OPA/iPA will have 3 week training and will have to give PRA.
+- if your PRA score is <80, then you will go for another 5 to 10 days training program called LAP.
+- if your PRA score is 80+, you will be mapped to a project.
