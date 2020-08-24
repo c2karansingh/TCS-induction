@@ -31,3 +31,4 @@
 - ₹2,06,000 cover per person.
 - ₹4,000 total premium per annum.
 - ₹12,00,000 Floater cover in total.
+- ₹8,000 to ₹11,000 cover additiona; if you want to add parents.
