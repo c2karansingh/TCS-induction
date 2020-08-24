@@ -25,3 +25,9 @@
 - `10 sick leaves` : excess upto 44 then lapsed.
 - `8 holidays`
 - `2 flexi holidays`
+
+## Insurance
+- The definition of family includes you, spouse, and upto 3 children.
+- ₹2,06,000 cover per person.
+- ₹4,000 total premium per annum.
+- ₹12,00,000 Floater cover in total.
