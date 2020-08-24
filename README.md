@@ -18,3 +18,9 @@
 - Those who scored <80 in OPA/iPA will have 3 week training and will have to give PRA.
 - if your PRA score is <80, then you will go for another 5 to 10 days training program called LAP.
 - if your PRA score is 80+, you will be mapped to a project.
+## Leaves
+- All leaves are divided into 4 quarters. The types of leaves are:
+- 16 earned leaves
+- 7 casual leaves
+- 10 sick leaves
+- 
