@@ -6,7 +6,7 @@
 * [Assessment details](#Assessment-details)
 * [Leaves](#Leaves)
 * [Insurance](#Insurance)
-
+* [Bank accounts](#Bank-accounts)
 ## Schedule at a glance.
 <div align="center">
 <img src="https://github.com/c2karansingh/TCS-induction/blob/master/images/Schedule.jpeg">
