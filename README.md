@@ -47,3 +47,6 @@
 - ₹4,000 total premium per annum.
 - ₹12,00,000 Floater cover in total.
 - ₹8,000 to ₹11,000 cover additional if you want to add parents.
+
+## Bank accounts.
+- Create the Salary Account and Employee Reimbursement Account from the given banks.
