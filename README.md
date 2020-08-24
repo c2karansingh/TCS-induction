@@ -1,9 +1,18 @@
+# Table of contents
+
+* [Schedule at a glance](##Schedule-at-a-glance)
+* [Mobile app instructions](##Mobile-app-instructions)
+* [Work from home](##Work-from-home)
+* [Assessment details](##Assessment-details)
+* [Leaves](##Leaves)
+* [Insurance](##Insurance)
+
 ## Schedule at a glance.
 <div align="center">
 <img src="https://github.com/c2karansingh/TCS-induction/blob/master/images/Schedule.jpeg">
 </div>
 
-## Instructions for the mobile app mentioned in the mail recieved the day before joining.
+## Mobile app instructions.
 - The app will be used for taking attendance as well as sharing materials like employee id.
 - Open the app on Microsoft edge only, with a mobile device with camera.
 - In login, add CT/DT (whichever applicable) as well to your reference number.
