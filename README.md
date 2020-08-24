@@ -19,8 +19,9 @@
 - if your PRA score is <80, then you will go for another 5 to 10 days training program called LAP.
 - if your PRA score is 80+, you will be mapped to a project.
 ## Leaves
-- All leaves are divided into 4 quarters. The types of leaves are:
-- 16 earned leaves
-- 7 casual leaves
-- 10 sick leaves
-- 
+- All leaves are divided into 4 quarters. The types of leaves per year are:
+- `16 earned leaves` : excess upto 48 then encashed.
+- `7 casual leaves` : Must be completed before year end.
+- `10 sick leaves` : excess upto 48 then lapsed.
+- `8 holidays`
+- `2 flexi holidays`
