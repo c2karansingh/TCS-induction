@@ -50,3 +50,11 @@
 
 ## Bank accounts.
 - Create the Salary Account and Employee Reimbursement Account from the given banks.
+- Must update the following details:
+* Salary account number (Savings bank account number)
+* Marital status
+* Aadhar number
+* Time sheet daily
+* Present address
+* Permanent address
+
