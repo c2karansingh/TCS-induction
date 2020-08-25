@@ -65,11 +65,12 @@
 6. Permanent address
 7. PAN card details
 
-# Day-2.
 
 ## Declaration kit
 - College name in page 5 'xplore part'
 - Add web copy/degree certificate in table on page 5. put date of submission as "date of physical reporting".
+
+# Day-2.
 
 ## Schedule at a glance.
 <div align="center">
