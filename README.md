@@ -1,5 +1,5 @@
 # Table of contents
-
+* **Day 1**
 * [Schedule at a glance](#Schedule-at-a-glance)
 * [Mobile app instructions](#Mobile-app-instructions)
 * [Work from home](#Work-from-home)
@@ -7,6 +7,12 @@
 * [Leaves](#Leaves)
 * [Insurance](#Insurance)
 * [Bank accounts](#Bank-accounts)
+* **Day 2**
+* [Schedule at a glance](#Schedule-at-a-glance-Day-2)
+* [Ultimatix](#Ultimatix)
+
+# Day-1.
+
 ## Schedule at a glance.
 <div align="center">
 <img src="https://github.com/c2karansingh/TCS-induction/blob/master/images/Schedule.jpeg">
@@ -51,14 +57,24 @@
 ## Bank accounts.
 - Create the Salary Account and Employee Reimbursement Account from the given banks.
 - Must update the following details:
-* Salary account number (Savings bank account number)
-* Marital status
-* Aadhar number
-* Time sheet daily
-* Present address
-* Permanent address
-* PAN card details
+1. Salary account number (Savings bank account number)
+2. Marital status
+3. Aadhar number
+4. Time sheet daily
+5. Present address
+6. Permanent address
+7. PAN card details
+
+# Day-2.
 
 ## Declaration kit
 - College name in page 5 'xplore part'
 - Add web copy/degree certificate in table on page 5. put date of submission as "date of physical reporting".
+
+## Schedule at a glance.
+<div align="center">
+<img src="https://github.com/c2karansingh/TCS-induction/blob/master/images/Schedule.jpeg">
+</div>
+
+
+## Ultimatix
