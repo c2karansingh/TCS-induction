@@ -72,7 +72,7 @@
 
 # Day-2.
 
-## Schedule at a glance.
+## Schedule at a glance Day 2.
 <div align="center">
 <img src="https://github.com/c2karansingh/TCS-induction/blob/master/images/Schedule2.jpeg">
 </div>
