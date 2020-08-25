@@ -81,3 +81,4 @@
 ## Ultimatix
 
 - Follow the steps from `S1 ultimatix and features` pdf on `TCS Virtual Onboarding-24-Aug` community and follow from page 4 onwards.
+- If you try to log in after step 9 page 4 and it says "you are unauthorized", please try after some time as it means that your employee id might not be activated yet. 
