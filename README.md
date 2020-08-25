@@ -73,7 +73,7 @@
 
 ## Schedule at a glance.
 <div align="center">
-<img src="https://github.com/c2karansingh/TCS-induction/blob/master/images/Schedule.jpeg">
+<img src="https://github.com/c2karansingh/TCS-induction/blob/master/images/Schedule2.jpeg">
 </div>
 
 
