@@ -79,3 +79,5 @@
 
 
 ## Ultimatix
+
+- Follow the steps from `S1 ultimatix and features` pdf on `TCS VIrtual Onboarding-24-Aug` community and follow from page 4 onwards.
