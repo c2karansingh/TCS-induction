@@ -27,7 +27,7 @@
 - On scanning the QR code, fill up the form with your current address as this will be the place where TCS will send the work assets to. (The app might be extremely slow as a lot of people will be submitting their details)
 - After this, you should be greeted by a screen showing your basic details including the employee id.
 
-## Work from home.
+## Work From Home:
 - SBWS (Secure Borderless Workspace) is TCS' solution for work from home.
 - You'll need to install TCS' utility app on your personal/TCS device for monitoring.
 
